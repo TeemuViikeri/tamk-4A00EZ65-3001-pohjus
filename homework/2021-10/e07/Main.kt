@@ -24,4 +24,3 @@ fun isPalindrome(string: String) : Boolean {
 
 	return true
 }
-
