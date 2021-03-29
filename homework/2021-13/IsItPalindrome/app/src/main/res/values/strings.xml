@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">IsItPalindrome</string>
-    <string name="is_it_palindrome">IS IT PALINDROME?</string>
-    <string name="second">second</string>
-    <string name="dial">DIAL</string>
-</resources>
