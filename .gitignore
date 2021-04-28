@@ -30,3 +30,6 @@ build
 
 # Ignore API key file
 Apikey.swift
+
+# Ignore DS_Store files
+.DS_Store
